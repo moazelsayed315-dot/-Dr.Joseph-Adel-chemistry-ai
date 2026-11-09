@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Joseph Adel | Chemistry",
+  "description": "Chemistry Languages companion with Dr. Joseph Adel - Smart chemistry tutor with English terminology and bilingual Arabic/English explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
